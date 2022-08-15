@@ -123,6 +123,7 @@ img {
 
 .box > article {
   margin-block: 1.32rem;
+  padding-inline: 0.4rem;
 }
 
 .box h2 {
